@@ -61,7 +61,7 @@ This project was completed as part of the **IBM Data Science Professional Certif
 ---
 
 ## 👨‍💻 Author
-**Ayush [Your GitHub Username]**  
+**Ayush **  
 📫 *Feel free to explore, fork, and collaborate!*  
 
 ---
